@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
+  <img src="http://pro-eve.s3-website-us-east-1.amazonaws.com/" width="140" />
 </p>
 <p align="center">
     <h1 align="center">DIGI-DREAMERS</h1>
 </p>
 <p align="center">
-    <em>HTTP error 401 for prompt `slogan`</em>
+    <em>[Pro-Eve](http://pro-eve.s3-website-us-east-1.amazonaws.com/)</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit/lovevyas/Digi-Dreamers?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">

@@ -1,12 +1,19 @@
 <p align="center">
-  <img src="digidreamers/LOGO.jpeg" width="140" />
+  <a href="http://pro-eve.s3-website-us-east-1.amazonaws.com"> <img src="digidreamers/LOGO.jpeg" width="140" /></a>
 </p>
+
+ 
+
 <p align="center">
     <h1 align="center">DIGI-DREAMERS</h1>
 </p>
+
 <p align="center">
-    <em>http://pro-eve.s3-website-us-east-1.amazonaws.com</em>
+  <a href="http://pro-eve.s3-website-us-east-1.amazonaws.com">ProEve</a>
 </p>
+
+
+
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit/lovevyas/Digi-Dreamers?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/lovevyas/Digi-Dreamers?style=flat&color=0080ff" alt="repo-top-language">

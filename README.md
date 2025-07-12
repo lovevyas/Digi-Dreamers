@@ -5,7 +5,7 @@
  
 
 <p align="center">
-    <h1 align="center">DIGI-DREAMERS</h1>
+    <h1 align="center">ProEve</h1>
 </p>
 
 <p align="center">

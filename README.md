@@ -112,10 +112,6 @@ We welcome contributions to ProEve! Here's how you can help:
 - Write clear, descriptive commit messages
 - Update documentation if needed
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Developer
 
 **Love Vyas** - [GitHub Profile](https://github.com/lovevyas)
